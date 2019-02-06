@@ -1,5 +1,5 @@
 /**
- * 具名参数
+ * 2.3 灵活初始化与具名参数
  */
 class Robot {
     def type, height, width

@@ -1,5 +1,5 @@
 /**
- * 使用Groovy代码生成变换
+ * 2.10 使用Groovy代码生成变换
  */
 
 import groovy.transform.Canonical

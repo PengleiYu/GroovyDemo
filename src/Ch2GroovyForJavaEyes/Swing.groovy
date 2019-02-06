@@ -1,5 +1,5 @@
 /**
- * 实现接口
+ * 2.6 实现接口
  */
 
 import javax.swing.JButton

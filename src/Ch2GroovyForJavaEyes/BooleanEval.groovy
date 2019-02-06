@@ -1,5 +1,5 @@
 /**
- * 布尔求值
+ * 2.7 布尔求值
  */
 str = 'hello'
 if (str) {//非null非空则为true

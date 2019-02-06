@@ -1,5 +1,5 @@
 /**
- * 多赋值
+ * 2.5 多赋值
  */
 
 def splitName(fullName) { fullName.split(' ') }

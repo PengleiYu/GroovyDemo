@@ -1,4 +1,8 @@
 /**
+ * 2.9 对Java5特性的支持
+ */
+
+/**
  * 自动装箱
  * 2.0之前所有基本类型都被视为对象
  * 2.0之后默认字节码级别作为基本类型，只有必要时才被视为对象
@@ -102,11 +106,11 @@ assert metaClass.getClass().name == 'groovy.lang.ExpandoMetaClass'
 /**
  * 泛型
  */
-ArrayList<Integer> list=new ArrayList<>()
+ArrayList<Integer> list = new ArrayList<>()
 list.add(1)
 list.add(2.0)
 list.add("hello")//不会有编译器错误
 println "List populated"
-for (int element:list){//运行时类型转换异常
+for (int element : list) {//运行时类型转换异常
     println element
 }

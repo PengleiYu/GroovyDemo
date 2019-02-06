@@ -1,4 +1,8 @@
 /**
+ * 2.11 Groovy中的陷阱
+ */
+
+/**
  * Groovy中==相当于Java的equals方法
  * Groovy中is方法才相当于Java中的==
  */

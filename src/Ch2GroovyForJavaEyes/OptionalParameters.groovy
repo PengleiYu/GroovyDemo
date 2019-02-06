@@ -1,5 +1,5 @@
 /**
- * 可选参
+ * 2.4 可选参
  */
 def log(x, base = 10) {
     Math.log(x) / Math.log(base)
